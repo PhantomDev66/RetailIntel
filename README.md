@@ -29,6 +29,4 @@ RetailIntel is a web scraping project focused on tracking offers, price errors, 
 
 ### Steps
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/RetailIntel.git
-   cd RetailIntel
+   
